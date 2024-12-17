@@ -1,4 +1,5 @@
 # 🔐 TeleOTP
+
 [![Build Telegram bot image](https://github.com/UselessStudio/TeleOTP/actions/workflows/bot.yml/badge.svg)](https://github.com/UselessStudio/TeleOTP/actions/workflows/bot.yml)
 [![Telegram channel](https://img.shields.io/badge/Telegram-channel-blue)](https://t.me/teleotpapp)
 [![Plausible analytics](https://img.shields.io/badge/Plausible-analytics-blue)](https://analytics.gesti.tech/teleotp.gesti.tech)
