@@ -1,9 +1,9 @@
 {
-  "name": "teleotp",
+  "name": "OTPGRAM",
   "private": true,
   "version": "0.4.0",
   "type": "module",
-  "homepage": "https://github.com/UselessStudio/TeleOTP",
+  "homepage": "https://t.me/ALEXrobot?start=support",
   "scripts": {
     "dev": "vite --host",
     "build": "npm run generate && tsc && vite build",
