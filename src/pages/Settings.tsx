@@ -161,7 +161,7 @@ const Settings: FC = () => {
                 align="center"
                 sx={{paddingY: theme.spacing(1)}}
             >
-                TeleOTP
+                OTPGRAM
                 <br/>
                 {l10n("Version")}: {APP_VERSION}
                 <br/>
