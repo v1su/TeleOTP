@@ -1,7 +1,7 @@
 export const lang = {
     "Settings.General": "General",
     "Language": "Language",
-    "NewsChannel": "TeleOTP News",
+    "NewsChannel": "OTPGRAM News",
     "ActionOpen": "Open",
     "Settings.Security": "Security",
     "Password": "Password",
@@ -17,7 +17,7 @@ export const lang = {
     "ActionExportAccounts": "Export accounts",
     "ActionRemoveAccounts": "Remove all accounts",
     "Version": "Version",
-    "StarUs": "Star us on GitHub",
+    "StarUs": "Contact Us",
     "HelpTranslating": "Help with translation",
     "DevTools": "Dev tools",
 
@@ -28,12 +28,12 @@ export const lang = {
 
     "ActionAddNewAccount": "Add new account",
 
-    "NewUpdateTitle": "Like TeleOTP?",
+    "NewUpdateTitle": "Like OTPGRAM?",
     "NewUpdateText": "Stay tuned for announcements and new releases in our channel",
     "ActionLearnMore": "Learn more",
 
     "ExportAccountsTitle": "Export accounts",
-    "ExportAccountsText": "You can export accounts to TeleOTP using a link, or to Google Authenticator (or similar) using a QR code.",
+    "ExportAccountsText": "You can export accounts to OTPGRAM using a link, or to Google Authenticator (or similar) using a QR code.",
     "GoBackAction": "Go back",
     "CopyLinkAction": "Copy link",
     "Export.ViaLink": "Via link",
