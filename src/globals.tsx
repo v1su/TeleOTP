@@ -31,7 +31,7 @@ export const colors: string[] = [
 
 export type Color = string;
 
-export const languages = ["en", "ru", "uk", "de", "fr", "es"] as const;
+export const languages = ["en", "ru", "uk", "de", "fr", "es", "hi"] as const; // Added "hi" for Hindi
 export const languageDescriptions: Record<Language, LanguageDescription> = {
     "en": {
         native: "English",
@@ -56,6 +56,11 @@ export const languageDescriptions: Record<Language, LanguageDescription> = {
     "es": {
         native: "Español",
         default: "Spanish"
+    },
+    "hi": {  // Added Hindi language description
+        native: "हिन्दी",
+        default: "Hindi"
     }
 } as const;
-export const defaultLanguage: Language = "en";
+
+export const defaultLanguage: Language = "en"; // You can change this to "hi" if you want to default to Hindi
