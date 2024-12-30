@@ -1,7 +1,7 @@
 export const lang = {
     "Settings.General": "General",
     "Language": "Language",
-    "NewsChannel": "OTPGRAM News",
+    "NewsChannel": "News",
     "ActionOpen": "Open",
     "Settings.Security": "Security",
     "Password": "Password",
